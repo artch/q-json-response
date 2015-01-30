@@ -1,6 +1,6 @@
 {
   "name": "q-json-response",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A JSON response wrapper for Express using Q",
   "main": "q-json-response.js",
   "dependencies": {
