@@ -1,4 +1,5 @@
 var q = require('q');
+var _ = require('lodash');
 
 module.exports = function(fn) {
 

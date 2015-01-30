@@ -4,6 +4,7 @@
   "description": "A JSON response wrapper for Express using Q",
   "main": "q-json-response.js",
   "dependencies": {
+    "lodash": "^3.0.1",
     "q": "^1.1.2"
   },
   "devDependencies": {},
