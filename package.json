@@ -1,0 +1,28 @@
+{
+  "name": "q-json-response",
+  "version": "0.1.0",
+  "description": "A JSON response wrapper for Express using Q",
+  "main": "q-json-response.js",
+  "dependencies": {
+    "q": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artch/q-json-response.git"
+  },
+  "keywords": [
+    "node",
+    "q",
+    "json"
+  ],
+  "author": "Artem Chivchalov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artch/q-json-response/issues"
+  },
+  "homepage": "https://github.com/artch/q-json-response"
+}
